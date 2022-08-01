@@ -70,6 +70,7 @@ print(t)  # {frozenset({1, 2, 3}): 1}
 # Reference
 
 - <https://www.geeksforgeeks.org/how-to-use-a-list-as-a-key-of-a-dictionary-in-python-3/>
+- <https://www.scaler.com/topics/python-dictionary-keys/>
 
 **Success Notice:**
 수고하셨습니다. :+1:
